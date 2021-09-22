@@ -80,3 +80,8 @@ Coding work for courses completed at the University of Illinois for Data Analyti
 13. Add, search, sort, remove, and display items that the user inserts into the array.
 
     [Link to Program 1](https://github.com/carissa406/Java-2/blob/master/Assignment01Driver.java)
+## CSC 385 - Data Structures and Algorithms
+
+1. Simple Calendar Application
+
+2. Most Valued Island - Produces the maximum sum of an island of integers
