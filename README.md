@@ -98,8 +98,8 @@ Coding work for courses completed at the University of Illinois for Data Analyti
 
 <details open>
 
-1. Simple Calendar Application
+1. Most Valued Island - Produces the maximum sum of an island of integers
 
-2. Most Valued Island - Produces the maximum sum of an island of integers
+      [Link to Program 1](https://github.com/carissa406/CSC385/blob/main/Islands.java)
 
 </details>
