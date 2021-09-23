@@ -5,6 +5,8 @@ Coding work for courses completed at the University of Illinois for Data Analyti
 
 ## CSC 302 - Discrete Structures
 
+<details>
+
 1. The user inputs a number. The code creates an array list of random numbers up to the user input. The code then prints the sum and product of those integers.
 
     [Link to Program 1](https://github.com/carissa406/Discrete-Structures/blob/master/Discrete%20Structures/HICKS%20Program%201.java)
@@ -75,6 +77,8 @@ Coding work for courses completed at the University of Illinois for Data Analyti
 
     [Link to Program 13](https://github.com/carissa406/Java-1/blob/master/Account.java)
 
+</details>
+    
 ---
 ## CSC 275 - Computer Programming Concepts II
 13. Add, search, sort, remove, and display items that the user inserts into the array.
