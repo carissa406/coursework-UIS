@@ -24,7 +24,7 @@ Coding work for courses completed at the University of Illinois for Data Analyti
     [Link to Program 4](https://github.com/carissa406/Discrete-Structures/blob/master/Discrete%20Structures/HICKS%20extra%20credit%20.java)
 
 </details>
----
+
 
 ## CSC 225 - Computer Programming Concepts I
 <details open>
@@ -82,12 +82,11 @@ Coding work for courses completed at the University of Illinois for Data Analyti
     [Link to Program 13](https://github.com/carissa406/Java-1/blob/master/Account.java)
 
 </details>
-    
----
+
+## CSC 275 - Computer Programming Concepts II
 
 <details open>
 
-## CSC 275 - Computer Programming Concepts II
 13. Add, search, sort, remove, and display items that the user inserts into the array.
 
     [Link to Program 1](https://github.com/carissa406/Java-2/blob/master/Assignment01Driver.java)
