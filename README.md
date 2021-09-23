@@ -5,7 +5,7 @@ Coding work for courses completed at the University of Illinois for Data Analyti
 
 ## CSC 302 - Discrete Structures
 
-<details>
+<details open>
 
 1. The user inputs a number. The code creates an array list of random numbers up to the user input. The code then prints the sum and product of those integers.
 
@@ -22,8 +22,12 @@ Coding work for courses completed at the University of Illinois for Data Analyti
 4. The user inputs a True or False value for x and y. The code prints the results of all logic operators on x and y.
 
     [Link to Program 4](https://github.com/carissa406/Discrete-Structures/blob/master/Discrete%20Structures/HICKS%20extra%20credit%20.java)
+
+</details>
 ---
+
 ## CSC 225 - Computer Programming Concepts I
+<details open>
 
 1. Convert pounds to kilograms and print the result.
 
@@ -80,12 +84,22 @@ Coding work for courses completed at the University of Illinois for Data Analyti
 </details>
     
 ---
+
+<details open>
+
 ## CSC 275 - Computer Programming Concepts II
 13. Add, search, sort, remove, and display items that the user inserts into the array.
 
     [Link to Program 1](https://github.com/carissa406/Java-2/blob/master/Assignment01Driver.java)
+
+</details>
+
 ## CSC 385 - Data Structures and Algorithms
+
+<details open>
 
 1. Simple Calendar Application
 
 2. Most Valued Island - Produces the maximum sum of an island of integers
+
+</details>
