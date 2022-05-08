@@ -19,7 +19,7 @@ Coding work for courses completed at the University of Illinois for Data Analyti
 
 [CODE](https://github.com/carissa406/CSC225/blob/master/Password.java) Checks to see if the user has inputted a valid password. 
 
-[CODE](https://github.com/carissa406/CSC225/blob/master/Grades.java) Prompts the user to enter in the total number of students and their scores and then displays their letter grade based on the best score in the classroom. 
+[CODE](https://github.com/carissa406/CSC225/blob/master/Grades.java) Prompts the user to enter in the total number of students and their scores and then displays their letter grade in order. 
 
 [CODE](https://github.com/carissa406/CSC225/blob/master/Sorting.java0) Prompts the user to enter a list and then display wether it is sorted or not. 
 
