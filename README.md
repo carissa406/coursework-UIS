@@ -44,3 +44,18 @@ Coding work for courses completed at the University of Illinois for Data Analyti
 
 [LINK](https://github.com/carissa406/CSC385/blob/main/Islands.java) Most Valued Island - Produces the maximum sum of an island of integers
 </details>
+
+## CSC 532 - Maching Learning (R)
+<details open>
+
+[LINK](https://github.com/carissa406/CSC532/blob/main/hw1.Rmd) Exploratory data analysis - vegas hotels, heart disease
+
+[LINK](https://github.com/carissa406/CSC532/blob/main/hw2.Rmd) KNN and Naive Bayes classifiers - income, covid tweets
+
+[LINK](https://github.com/carissa406/CSC532/blob/main/hw3.Rmd) Linear/Logistic Regression, Decision trees- college applications, customer churn
+  
+[LINK](https://github.com/carissa406/CSC532/blob/main/hw4.Rmd) Artificial Neural Network - covid sentiment, baseball player salary
+  
+[LINK](https://github.com/carissa406/CSC532/blob/main/Assignment%205.Rmd) Regularization Tree based ensemble, SVM, regression, ANN - housing
+  
+</details>
