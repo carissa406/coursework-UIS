@@ -63,16 +63,16 @@ Coding work for courses completed at the University of Illinois for Data Analyti
 ## CSC 533 - Data Mining (PySpark)
 <details open>
  
-[LINK] (https://github.com/carissa406/CSC533/blob/main/ex3-2test.txt) Frequent pattern mining - market basket analysis
+[LINK](https://github.com/carissa406/CSC533/blob/main/ex3-2test.txt) Frequent pattern mining - market basket analysis
   
-[LINK] (https://github.com/carissa406/CSC533/blob/main/ex4-1test.txt) Decision tree classifier
+[LINK](https://github.com/carissa406/CSC533/blob/main/ex4-1test.txt) Decision tree classifier
   
-[LINK] (https://github.com/carissa406/CSC533/blob/main/ex4-2test.txt) Random Forest classifier - Titanic
+[LINK](https://github.com/carissa406/CSC533/blob/main/ex4-2test.txt) Random Forest classifier - Titanic
   
-[LINK] (https://github.com/carissa406/CSC533/blob/main/ex5-1test.txt) K-means clustering
+[LINK](https://github.com/carissa406/CSC533/blob/main/ex5-1test.txt) K-means clustering
   
-[LINK] (https://github.com/carissa406/CSC533/blob/main/ex5-2test.txt) K-means clustering - Uber
+[LINK](https://github.com/carissa406/CSC533/blob/main/ex5-2test.txt) K-means clustering - Uber
   
-[LINK] (https://github.com/carissa406/CSC533/blob/main/ex%206-1test.txt) Outlier detection - Titanic
+[LINK](https://github.com/carissa406/CSC533/blob/main/ex%206-1test.txt) Outlier detection - Titanic
   
 </details>
