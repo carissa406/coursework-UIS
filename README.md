@@ -5,31 +5,31 @@ Coding work for courses completed at the University of Illinois for Data Analyti
 
 ## CSC 225 - Computer Programming Concepts I
 <details open>
-Convert pounds to kilograms and print the result. [CODE](https://github.com/carissa406/CSC225/blob/master/Conversion.java)
+[CODE](https://github.com/carissa406/CSC225/blob/master/Conversion.java) Convert pounds to kilograms and print the result. 
     
-Plays a simple game of rock paper scissors with the user. [CODE](https://github.com/carissa406/CSC225/blob/master/Game.java)
+[CODE](https://github.com/carissa406/CSC225/blob/master/Game.java) Plays a simple game of rock paper scissors with the user. 
     
-The user inputs an integer from 1-9. The code prints the corresponding letter associated with the number based on a standard phone keypad. [CODE](https://github.com/carissa406/CSC225/blob/master/Phone.java)
+[CODE](https://github.com/carissa406/CSC225/blob/master/Phone.java) The user inputs an integer from 1-9. The code prints the corresponding letter associated with the number based on a standard phone keypad. 
     
-Prompts the user to enter a string then prints the characters at odd positions. [CODE](https://github.com/carissa406/CSC225/blob/master/Odd.java)
+[CODE](https://github.com/carissa406/CSC225/blob/master/Odd.java) Prompts the user to enter a string then prints the characters at odd positions. 
 
-Prompts the user to enter an integer from 1 to 15 and displays a pyramid with that number of lines. [CODE](https://github.com/carissa406/CSC225/blob/master/Pyramid.java)
+[CODE](https://github.com/carissa406/CSC225/blob/master/Pyramid.java) Prompts the user to enter an integer from 1 to 15 and displays a pyramid with that number of lines. 
    
-Prompts the user to enter three random numbers. Prints the three numbers sorted in increasing order. [CODE](https://github.com/carissa406/CSC225/blob/master/Sort.java)
+[CODE](https://github.com/carissa406/CSC225/blob/master/Sort.java) Prompts the user to enter three random numbers. Prints the three numbers sorted in increasing order. 
 
-Checks to see if the user has inputted a valid password. [CODE](https://github.com/carissa406/CSC225/blob/master/Password.java)
+[CODE](https://github.com/carissa406/CSC225/blob/master/Password.java) Checks to see if the user has inputted a valid password. 
 
-Prompts the user to enter in the total number of students and their scores and then displays their letter grade based on the best score in the classroom. [CODE](https://github.com/carissa406/CSC225/blob/master/Grades.java)
+[CODE](https://github.com/carissa406/CSC225/blob/master/Grades.java) Prompts the user to enter in the total number of students and their scores and then displays their letter grade based on the best score in the classroom. 
 
-Prompts the user to enter a list and then display wether it is sorted or not. [CODE](https://github.com/carissa406/CSC225/blob/master/Sorting.java0)
+[CODE](https://github.com/carissa406/CSC225/blob/master/Sorting.java0) Prompts the user to enter a list and then display wether it is sorted or not. 
 
-Rectangle class that defines a simple rectangle. Contains methods for getting and setting the properties. [CODE](https://github.com/carissa406/CSC225/blob/master/SimpleRectangleTest.java)
+[CODE](https://github.com/carissa406/CSC225/blob/master/SimpleRectangleTest.java) Rectangle class that defines a simple rectangle. Contains methods for getting and setting the properties. 
 
-Test program for the predefined date class in Java. [CODE](https://github.com/carissa406/CSC225/blob/master/DateTest.java)
+[CODE](https://github.com/carissa406/CSC225/blob/master/DateTest.java) Test program for the predefined date class in Java. 
 
-Implementation of integer class. [CODE](https://github.com/carissa406/CSC225/blob/master/MyInteger.java)
+[CODE](https://github.com/carissa406/CSC225/blob/master/MyInteger.java) Implementation of integer class. 
 
-Class "Account" that contains simple bank account information and methods used to deposit and withdraw. [CODE](https://github.com/carissa406/CSC225/blob/master/Account.java)
+[CODE](https://github.com/carissa406/CSC225/blob/master/Account.java) Class "Account" that contains simple bank account information and methods used to deposit and withdraw. 
 </details>
 
 ## CSC 275 - Computer Programming Concepts II
