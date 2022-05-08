@@ -3,51 +3,44 @@ Coding work for courses completed at the University of Illinois for Data Analyti
 
 ---
 
-## CSC 225 - Computer Programming Concepts I
+## CSC 225 - Computer Programming Concepts I (JAVA)
 <details open>
-[CODE](https://github.com/carissa406/CSC225/blob/master/Conversion.java) Convert pounds to kilograms and print the result. 
-    
-[CODE](https://github.com/carissa406/CSC225/blob/master/Game.java) Plays a simple game of rock paper scissors with the user. 
-    
-[CODE](https://github.com/carissa406/CSC225/blob/master/Phone.java) The user inputs an integer from 1-9. The code prints the corresponding letter associated with the number based on a standard phone keypad. 
-    
-[CODE](https://github.com/carissa406/CSC225/blob/master/Odd.java) Prompts the user to enter a string then prints the characters at odd positions. 
 
-[CODE](https://github.com/carissa406/CSC225/blob/master/Pyramid.java) Prompts the user to enter an integer from 1 to 15 and displays a pyramid with that number of lines. 
-   
-[CODE](https://github.com/carissa406/CSC225/blob/master/Sort.java) Prompts the user to enter three random numbers. Prints the three numbers sorted in increasing order. 
+[LINK](https://github.com/carissa406/CSC225/blob/master/Conversion.java) Convert pounds to kilograms and print the result. 
 
-[CODE](https://github.com/carissa406/CSC225/blob/master/Password.java) Checks to see if the user has inputted a valid password. 
+[LINK](https://github.com/carissa406/CSC225/blob/master/Game.java) Plays a simple game of rock paper scissors with the user. 
 
-[CODE](https://github.com/carissa406/CSC225/blob/master/Grades.java) Prompts the user to enter in the total number of students and their scores and then displays their letter grade in order. 
+[LINK](https://github.com/carissa406/CSC225/blob/master/Phone.java) The user inputs 1-9. The code prints the corresponding letter associated with the number based on a standard phone keypad. 
 
-[CODE](https://github.com/carissa406/CSC225/blob/master/Sorting.java0) Prompts the user to enter a list and then display wether it is sorted or not. 
+[LINK](https://github.com/carissa406/CSC225/blob/master/Odd.java) Prompts the user to enter a string then prints the characters at odd positions. 
 
-[CODE](https://github.com/carissa406/CSC225/blob/master/SimpleRectangleTest.java) Rectangle class that defines a simple rectangle. Contains methods for getting and setting the properties. 
+[LINK](https://github.com/carissa406/CSC225/blob/master/Pyramid.java) Prompts the user to enter an integer from 1 to 15 and displays a pyramid with that number of lines. 
 
-[CODE](https://github.com/carissa406/CSC225/blob/master/DateTest.java) Test program for the predefined date class in Java. 
+[LINK](https://github.com/carissa406/CSC225/blob/master/Sort.java) Prompts the user to enter three random numbers. Prints the three numbers sorted in increasing order. 
 
-[CODE](https://github.com/carissa406/CSC225/blob/master/MyInteger.java) Implementation of integer class. 
+[LINK](https://github.com/carissa406/CSC225/blob/master/Password.java) Checks to see if the user has inputted a valid password. 
 
-[CODE](https://github.com/carissa406/CSC225/blob/master/Account.java) Class "Account" that contains simple bank account information and methods used to deposit and withdraw. 
+[LINK](https://github.com/carissa406/CSC225/blob/master/Grades.java) Prompts the user to enter in the total number of students and their scores and then displays their letter grade in order. 
+
+[LINK](https://github.com/carissa406/CSC225/blob/master/Sorting.java0) Prompts the user to enter a list and then display wether it is sorted or not. 
+
+[LINK](https://github.com/carissa406/CSC225/blob/master/SimpleRectangleTest.java) Rectangle class that defines a simple rectangle. Contains methods for getting and setting the properties. 
+
+[LINK](https://github.com/carissa406/CSC225/blob/master/DateTest.java) Test program for the predefined date class in Java. 
+
+[LINK](https://github.com/carissa406/CSC225/blob/master/MyInteger.java) Implementation of integer class. 
+
+[LINK](https://github.com/carissa406/CSC225/blob/master/Account.java) Class "Account" that contains simple bank account information and methods used to deposit and withdraw. 
 </details>
 
-## CSC 275 - Computer Programming Concepts II
-
+## CSC 275 - Computer Programming Concepts II (JAVA)
 <details open>
 
-Add, search, sort, remove, and display items that the user inserts into the array.
-
-    [Link to Program 1](https://github.com/carissa406/CSC275/blob/master/Assignment01Driver.java)
-
+[LINK](https://github.com/carissa406/CSC275/blob/master/Assignment01Driver.java) Add, search, sort, remove, and display items that the user inserts into the array.
 </details>
 
-## CSC 385 - Data Structures and Algorithms
-
+## CSC 385 - Data Structures and Algorithms (JAVA)
 <details open>
 
-Most Valued Island - Produces the maximum sum of an island of integers
-
-      [Link to Program 1](https://github.com/carissa406/CSC385/blob/main/Islands.java)
-
+[LINK](https://github.com/carissa406/CSC385/blob/main/Islands.java) Most Valued Island - Produces the maximum sum of an island of integers
 </details>
