@@ -60,7 +60,7 @@ Coding work for courses completed at the University of Illinois for Data Analyti
   
 </details>
 
-## CSC 533 - Data Mining (PySpark)
+## CSC 533 - Data Mining (PySpark/Hadoop)
 <details open>
  
 [LINK](https://github.com/carissa406/CSC533/blob/main/ex3-2test.txt) Frequent pattern mining - market basket analysis
@@ -75,4 +75,14 @@ Coding work for courses completed at the University of Illinois for Data Analyti
   
 [LINK](https://github.com/carissa406/CSC533/blob/main/ex%206-1test.txt) Outlier detection - Titanic
   
+</details>
+
+## CSC 534 - Big Data Analytics (PySpark/Hadoop/HIVE)
+<details open>
+  
+[LINK](https://github.com/carissa406/CSC534/blob/main/ex3-2test.txt) Visualize truck drivers
+  
+[LINK](https://github.com/carissa406/CSC534/blob/main/ex4-22test.txt) Logistic regression - covid tweets
+  
+[LINK](https://github.com/carissa406/CSC534/blob/main/ex5-2test.txt) Latent dirichlet alocation model
 </details>
