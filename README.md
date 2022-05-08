@@ -8,7 +8,7 @@ Coding work for courses completed at the University of Illinois for Data Analyti
 
 Convert pounds to kilograms and print the result.
 
-    [Link to Program 1](https://github.com/carissa406/CSC225/blob/master/Conversion.java)
+    [CODE](https://github.com/carissa406/CSC225/blob/master/Conversion.java)
 
 Plays a simple game of rock paper scissors with the user.
 
