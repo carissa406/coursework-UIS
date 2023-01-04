@@ -86,3 +86,31 @@ Coding work for courses completed at the University of Illinois for Data Analyti
   
 [LINK](https://github.com/carissa406/CSC534/blob/main/ex5-2test.txt) Latent dirichlet alocation model
 </details>
+
+## CSC 535 - Deep Learning (Python)
+<details open>
+
+[LINK](https://github.com/carissa406/deep-learning-535/blob/main/Carissa_Hicks_assignment1_numpy.ipynb) Predict median house price for California using neural networks - linear regression - numpy
+
+[LINK](https://github.com/carissa406/deep-learning-535/blob/main/CarissaHicks_assignment1_tensorflow.ipynb) Predict median house price for California using neural networks - linear regression - tensorflow
+
+[LINK](https://github.com/carissa406/deep-learning-535/blob/main/CarissaHicks_assignment2.ipynb) Fashion-Mnist classification, model tuning
+
+[LINK](https://github.com/carissa406/deep-learning-535/blob/main/CarissaHicks_Assignment3.ipynb) Kaggle Intel Image classification challenge, CNN, transfer learning
+
+[LINK](https://github.com/carissa406/deep-learning-535/blob/main/CarissaHicks_Assignment4.ipynb) Time series forcasting covid-19 deaths, RNN
+
+[LINK](https://github.com/carissa406/deep-learning-535/blob/main/CarissaHicks_Assignment5.ipynb) fine tune BERT model to predict fake vs real job postings
+
+[LINK](https://colab.research.google.com/drive/1AGp7TXniY1HAczqMBTsZQHbt1qxG0BES) CNN image classification of artist by artwork
+
+</details>
+
+## CSC 554 - Capstone Project (R)
+<details open>
+
+[Link to Report](https://github.com/carissa406/fake-instagram-capstone/blob/main/Carissa%20Hicks%20Report.pdf)
+
+[Link to Code](https://github.com/carissa406/fake-instagram-capstone/blob/main/RealFakeInstagram.pdf)
+
+</details>
