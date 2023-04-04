@@ -63,7 +63,7 @@ Coding work for courses completed at the University of Illinois for Data Analyti
 ## CSC 533 - Data Mining (PySpark/Hadoop)
 <details open>
  
-[LINK](https://github.com/carissa406/CSC533/blob/main/ex3-2test.txt) Frequent pattern mining - market basket analysis
+[LINK](https://github.com/carissa406/data-mining-533/tree/main/FrequentPatternMining) Frequent pattern mining - market basket analysis
   
 [LINK](https://github.com/carissa406/CSC533/blob/main/ex4-1test.txt) Decision tree classifier
   
